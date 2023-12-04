@@ -1,5 +1,34 @@
 # Oasis_infobyte_taskno_5
+#RANDOM PASSWORD GENERATOR
+
 A Random Password generator using Python and Tkinter containing GUI.
+
+#LANGUAGE AND LIBRARIES
+
+- Python
+- Tkinter
+- Random and Randint
+- String
+
+#FEATURES
+
+- Generates a python based Password Generator.
+- Allows user to create a strong password.
+- Gives user character options that he/she wants to be included in the password.
+- The four character options present: Uppercase, Lowercase, Symbols, Digits.
+- Allows the user to copy the password generated to the clipboard.
+
+#FUNCTIONS AND GUI ITEMS USED
+
+- generate_password function
+- clip function
+- PASSWORD GENERATOR Window
+- One entry panel
+- One display Panel
+- Four checkboxes titled Uppercase, Lowercase, Numbers and Special Characters.
+
+#PROCESS EXPLAINATION
+
 In this project a Python Graphical User Interface is created which takes in the user's input criteria of password length and character set preferences.
 We import Tkinter for executing python GUI Interface and from that we can create the interactive interface for the project.
 From random we import randint which is used to import random inetgers within the ascii values that are provided.
