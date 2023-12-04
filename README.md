@@ -3,14 +3,14 @@
 
 A Random Password generator using Python and Tkinter containing GUI.
 
-#LANGUAGE AND LIBRARIES
+# LANGUAGE AND LIBRARIES
 
 - Python
 - Tkinter
 - Random and Randint
 - String
 
-#FEATURES
+# FEATURES
 
 - Generates a python based Password Generator.
 - Allows user to create a strong password.
@@ -18,7 +18,7 @@ A Random Password generator using Python and Tkinter containing GUI.
 - The four character options present: Uppercase, Lowercase, Symbols, Digits.
 - Allows the user to copy the password generated to the clipboard.
 
-#FUNCTIONS AND GUI ITEMS USED
+# FUNCTIONS AND GUI ITEMS USED
 
 - generate_password function
 - clip function
@@ -27,7 +27,7 @@ A Random Password generator using Python and Tkinter containing GUI.
 - One display Panel
 - Four checkboxes titled Uppercase, Lowercase, Numbers and Special Characters.
 
-#PROCESS EXPLAINATION
+# PROCESS EXPLAINATION
 
 In this project a Python Graphical User Interface is created which takes in the user's input criteria of password length and character set preferences.
 We import Tkinter for executing python GUI Interface and from that we can create the interactive interface for the project.
