@@ -1,4 +1,3 @@
-# Oasis_infobyte_taskno_5
 #RANDOM PASSWORD GENERATOR
 
 A Random Password generator using Python and Tkinter containing GUI.
